@@ -1,8 +1,8 @@
 # Flask + API + Auth0 The Complete Starter
 
 ## Please refer to get a better idea of the inner working of the app
--[Flask](https://auth0.com/docs/quickstart/webapp/python/01-login#display-user-information)
--[Flask API: Authorization](https://auth0.com/docs/quickstart/backend/python)
+- [Flask](https://auth0.com/docs/quickstart/webapp/python/01-login#display-user-information)
+- [Flask API: Authorization](https://auth0.com/docs/quickstart/backend/python)
 
 
 
