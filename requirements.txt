@@ -1,0 +1,7 @@
+flask_restful
+flask
+python-dotenv
+requests
+Authlib
+six
+flask-cors
